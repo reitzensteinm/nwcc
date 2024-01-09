@@ -6,10 +6,12 @@ This is... not that.
 
 ### Features
 
+* Self compiling
 * Full Rust type checking via delegated authority to host compiler
 * Compiles in a single pass
 * Caches object code for extreme speed
 * Rejects compilation of all known programs containing bugs
+* Supports compilation of more than three programs
 
 ### Targets
 
