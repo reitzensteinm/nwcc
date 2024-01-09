@@ -220,4 +220,4 @@ This is... not that.
 
 ### Usage
 
-nwcc -o a.out src/program.rs
+```nwcc -o a.out src/program.rs```
